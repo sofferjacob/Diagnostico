@@ -1,0 +1,1 @@
+g++ -std=c++11 main.cpp fraccion.cpp fraccion_loop.cpp matfrac.cpp -o fracciones 
